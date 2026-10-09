@@ -1,0 +1,6 @@
+kafka-python
+faker
+pyspark==3.5.0
+fastapi
+uvicorn
+psycopg2-binary
